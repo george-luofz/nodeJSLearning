@@ -1,0 +1,90 @@
+2018-05-14 23:05:14,179 ERROR 1706 [-/127.0.0.1/-/10ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/lib/application.js:318:15)
+    at Object.get cookies [as cookies] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-session/index.js:41:13)
+
+pid: 1706
+hostname: bogon
+
+2018-05-14 23:11:54,926 ERROR 1738 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/lib/application.js:318:15)
+    at Object.get cookies [as cookies] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-session/index.js:41:13)
+
+pid: 1738
+hostname: bogon
+
+2018-05-14 23:19:49,452 ERROR 1778 [-/127.0.0.1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/lib/application.js:318:15)
+    at Object.get cookies [as cookies] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-session/index.js:41:13)
+
+pid: 1778
+hostname: bogon
+
+2018-05-14 23:23:41,884 ERROR 1795 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/lib/application.js:318:15)
+    at Object.get cookies [as cookies] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-session/index.js:41:13)
+
+pid: 1795
+hostname: bogon
+
+2018-05-14 23:31:08,653 ERROR 1827 [-/127.0.0.1/-/9ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/lib/application.js:318:15)
+    at Object.get cookies [as cookies] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-session/index.js:41:13)
+
+pid: 1827
+hostname: bogon
+
+2018-05-14 23:33:59,032 ERROR 1874 [-/127.0.0.1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/lib/application.js:318:15)
+    at Object.get cookies [as cookies] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/app/extend/context.js:18:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:78:33)
+    at Object.ensureCsrfSecret (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/app/extend/context.js:89:13)
+    at csrf (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/koa-session/index.js:41:13)
+
+pid: 1874
+hostname: bogon
+

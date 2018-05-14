@@ -1,0 +1,16 @@
+2018-05-14 23:04:53,833 INFO 1705 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-15 00:00:00.000
+2018-05-14 23:04:53,834 INFO 1705 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-15 00:00:01.000
+2018-05-14 23:11:44,839 INFO 1737 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-15 00:00:00.000
+2018-05-14 23:11:44,839 INFO 1737 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-15 00:00:01.000
+2018-05-14 23:19:37,128 INFO 1777 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-15 00:00:00.000
+2018-05-14 23:19:37,129 INFO 1777 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-15 00:00:01.000
+2018-05-14 23:23:29,044 INFO 1794 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-15 00:00:00.000
+2018-05-14 23:23:29,045 INFO 1794 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-15 00:00:01.000
+2018-05-14 23:30:57,848 INFO 1826 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-15 00:00:00.000
+2018-05-14 23:30:57,849 INFO 1826 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-15 00:00:01.000
+2018-05-14 23:33:47,925 INFO 1873 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-15 00:00:00.000
+2018-05-14 23:33:47,925 INFO 1873 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-15 00:00:01.000
+2018-05-14 23:37:10,702 INFO 1887 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-15 00:00:00.000
+2018-05-14 23:37:10,703 INFO 1887 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-15 00:00:01.000
+2018-05-14 23:41:41,150 INFO 1922 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-05-15 00:00:00.000
+2018-05-14 23:41:41,151 INFO 1922 [Timer] /Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-05-15 00:00:01.000

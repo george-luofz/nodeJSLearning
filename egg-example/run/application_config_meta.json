@@ -1,0 +1,252 @@
+{
+  "keys": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/config/config.default.js",
+  "middleware": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/luofuzhong/Desktop/nodeJSLearning/egg-example/node_modules/egg/config/config.default.js"
+}
